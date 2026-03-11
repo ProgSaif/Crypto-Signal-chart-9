@@ -1,4 +1,8 @@
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHANNEL_ID = "@your_channel_username"
+CHANNEL_ID = "@your_channel"
 
-CHART_URL = "https://www.tradingview.com/chart/rs0V5Znp/"
+TIMEFRAME = "15"
+
+EMA_FAST = 9
+EMA_SLOW = 21
+RSI_PERIOD = 14
