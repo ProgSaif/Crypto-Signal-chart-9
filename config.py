@@ -1,7 +1,7 @@
 # Telegram and bot settings
 
-BOT_TOKEN = "8693242352:AAG1BpVKgz1rDjppb46nHpfO-of6l2ccVmc"
-CHANNEL_ID = -1003833687816
+BOT_TOKEN = "8693242352:-of6l2ccVmc"
+CHANNEL_ID = -
 
 # Signal parameters
 EMA_FAST = 9
